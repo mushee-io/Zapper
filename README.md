@@ -1,7 +1,7 @@
 ## Mushee Yield (Mushee, UK incorporated)
 
 Mushee Yield is a styled, no-noise staking dashboard built with the Starkzap SDK.
-Goal: make DeFi staking feel obvious — **connect → pick validator → load pools → stake → track → claim**.
+Goal: make DeFi staking feel obvious:  **connect → pick validator → load pools → stake → track → claim**.
 
 ### What’s included
 - Starkzap onboarding (Cartridge strategy)
